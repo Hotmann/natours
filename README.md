@@ -16,11 +16,10 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+### Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [How To Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
@@ -48,7 +47,7 @@
   Learnt how to create an hambuger menu.  
   I learnt how to use command prompt to create and compile a project.
 
-### Built With
+## Built With
 
 - HTML
 - CSS
